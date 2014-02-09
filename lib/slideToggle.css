@@ -52,6 +52,8 @@ div.slider-whole .slideToggle.element .off {
    /*width: 100%;*/
     width: 33px;
     font-weight : bold;
+    line-height: 13pt;
+    font-size: 10pt;
     user-select: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
