@@ -1,7 +1,7 @@
 slideToggle
 ===========
 
-A simple jQuery toggle switch!
+A jQuery toggle switch! Me too!
 
 slideToggle is a useful sliding toggle form element, which works with javascript and CSS.
 
